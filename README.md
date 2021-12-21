@@ -1,11 +1,12 @@
 # iMovi
 ## Descrição do Projeto
 <p>Site fictício de arquitetura</p>
-<h1>
+<h3>
    Tecnologias utilizadas:
- -HTML
- -CSS
- -BOOTSTRAP
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+</h3>
+<ul>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Bootstrap</li>
+</ul>
   
