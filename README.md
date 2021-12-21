@@ -1,3 +1,3 @@
 # iMovi
-<img src="/docs/imoviprints/Semtitulo.png">
+<img src="/img/Semtitulo.png">
 Projeto de site de arquitetura criado com Bootstrap
