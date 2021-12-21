@@ -1,8 +1,8 @@
 # iMovi
 ## Descrição do Projeto
-<p>Site fictício de arquitetura.</p
-  ## Tecnologias utilizadas:
+<p>Site fictício de arquitetura.
+ Tecnologias utilizadas:
   - HTML
   - CSS
-  - BOOTSTRAP
+  - BOOTSTRAP</p>
   
